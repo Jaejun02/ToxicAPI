@@ -7,7 +7,7 @@ dependencies:
   - pytorch
   - pip
   - pip:
-      - fastapi
+      - fastapi[standard]
       - uvicorn
       - python-dotenv
       - transformers

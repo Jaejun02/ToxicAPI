@@ -20,7 +20,7 @@ This API detects toxic content in text using **natural language processing (NLP)
 ### Prerequisites
 1. **Clone the repository** from GitHub:
 ```bash
-git clone <repository_url>
+git clone <https://github.com/Jaejun02/ToxicAPI.git>
 cd ToxicAPI
 ```
 2. **Create a Conda environment and install dependencies**:

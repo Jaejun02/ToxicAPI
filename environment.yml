@@ -1,0 +1,15 @@
+name: toxicapi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch
+  - pip
+  - pip:
+      - fastapi
+      - uvicorn
+      - python-dotenv
+      - transformers
+      - pydantic
+      - huggingface-hub

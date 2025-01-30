@@ -1,6 +1,6 @@
 # 🚀 Toxic Comment Classification API
 
-This project provides a **FastAPI**-based web service for classifying toxic comments using a **BERT-based model**. The API allows users to analyze text for toxicity and submit feedback on classification results.
+This project provides a **FastAPI**-based web service for classifying toxic comments using a **unitary's Toxic BERT model**. The API allows users to analyze text for toxicity and submit feedback on classification results.
 
 ---
 ## 🧐 About
